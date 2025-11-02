@@ -7,6 +7,7 @@ const App = () => {
     <div>
         {/* Do not remove the main div */}
         <h1>Acciojob</h1>
+        <h1>Acciojob</h1>
     </div>
   )
 }
